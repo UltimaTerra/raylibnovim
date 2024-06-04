@@ -5267,6 +5267,17 @@ return {
       }
     },
     {
+      name = "CheckCollisionCircleLine",
+      description = "Check if circle collides with a line created betweeen two points [p1] and [p2]",
+      returnType = "bool",
+      params = {
+        {type = "Vector2", name = "center"},
+        {type = "float", name = "radius"},
+        {type = "Vector2", name = "p1"},
+        {type = "Vector2", name = "p2"}
+      }
+    },
+    {
       name = "GetCollisionRec",
       description = "Get collision rectangle for two rectangles collision",
       returnType = "Rectangle",
@@ -6760,6 +6771,22 @@ return {
     {
       name = "TextToPascal",
       description = "Get Pascal case notation version of provided string",
+      returnType = "const char *",
+      params = {
+        {type = "const char *", name = "text"}
+      }
+    },
+    {
+      name = "TextToSnake",
+      description = "Get Snake case notation version of provided string",
+      returnType = "const char *",
+      params = {
+        {type = "const char *", name = "text"}
+      }
+    },
+    {
+      name = "TextToCamel",
+      description = "Get Camel case notation version of provided string",
       returnType = "const char *",
       params = {
         {type = "const char *", name = "text"}
