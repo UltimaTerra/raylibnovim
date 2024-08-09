@@ -9,6 +9,7 @@ Some people ported raylib to other languages in the form of bindings or wrappers
 | [raylib](https://github.com/raysan5/raylib)                                              | **5.0**          | [C/C++](https://en.wikipedia.org/wiki/C_(programming_language))      | Zlib                 |
 | [raylib-beef](https://github.com/Starpelly/raylib-beef)                                  | **5.0**          | [Beef](https://www.beeflang.org)                                     | MIT                  |
 | [raylib-boo](https://github.com/Rabios/raylib-boo)                                       | 3.7              | [Boo](http://boo-language.github.io)                                 | MIT                  |
+| [raybit](https://github.com/Alex-Velez/raybit)                                       | 3.7              | [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)                                 | MIT                  |
 | [Raylib-cs](https://github.com/ChrisDill/Raylib-cs)                                      | **5.0**          | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))   | Zlib                 |
 | [Raylib-CsLo](https://github.com/NotNotTech/Raylib-CsLo)                                 | 4.2              | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))   | MPL-2.0              |
 | [Raylib-CSharp-Vinculum](https://github.com/ZeroElectric/Raylib-CSharp-Vinculum)         | **5.0**          | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))   | MPL-2.0              |
@@ -149,7 +150,7 @@ These are older raylib bindings that are more than 2 versions old or have not be
 | [ray.mod](https://github.com/bmx-ng/ray.mod)                                       | 3.0            | [BlitzMax](https://blitzmax.org)                                        |
 | [raylib-mosaic](https://github.com/pluckyporcupine/raylib-mosaic)                  | 3.0            | [Mosaic](https://github.com/sal55/langs/tree/master/Mosaic)             |
 | [raylib-xdpw](https://github.com/vtereshkov/raylib-xdpw)                           | 2.6            | [XD Pascal](https://github.com/vtereshkov/xdpw)                         |
-| [raylib-carp](https://github.com/pluckyporcupine/raylib-carp)                      | 3.0            | [Carp](https://github.com/carp-lang/Carp)                               |
+| [raylib-carp](https://github.com/sacredbirdman/raylib-carp)                      | 3.0            | [Carp](https://github.com/carp-lang/Carp)                               |
 | [raylib-fb](https://github.com/IchMagBier/raylib-fb)                               | 3.0            | [FreeBasic](https://www.freebasic.net)                                  |
 | [raylib-purebasic](https://github.com/D-a-n-i-l-o/raylib-purebasic)                | 3.0            | [PureBasic](https://www.purebasic.com)                                  |
 | [raylib-ats2](https://github.com/mephistopheles-8/raylib-ats2)                     | 3.0            | [ATS2](http://www.ats-lang.org)                                         |
